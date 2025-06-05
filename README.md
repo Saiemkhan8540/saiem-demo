@@ -1,2 +1,2 @@
 # saiem-demo
-This is Demo for Git &amp; GitHub class
+This is Demo for Git &amp; GitHub class.
