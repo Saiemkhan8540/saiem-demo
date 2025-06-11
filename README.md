@@ -5,4 +5,4 @@ This is Demo for Git &amp; GitHub class.
 Shardha Khapra
 
 # Student
-Apna college student Saiem
+student Saiem (Apna college)
